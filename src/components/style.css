@@ -1,0 +1,23 @@
+.sidebar{
+    width: 220px;
+   
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+
+}
+.list-group a:hover {
+    background-color:rgb(31, 99, 145); ;
+    color: white;
+    cursor:pointer;
+}
+/* Custom CSS for the sidebar */
+
+/* Set a height for the sidebar */
+.all{
+    margin-top:10px;
+    display:inline-flex;
+    margin-right:10px;
+}
